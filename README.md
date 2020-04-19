@@ -1,5 +1,3 @@
 # hello-world
-test
-
-
-hellohelloblablab
+Hi there!
+I'm Laura, trying to get the hang of this cool tool.
