@@ -1,3 +1,3 @@
 # hello-world
 Hi there!
-I'm Laura, trying to get the hang of this cool tool.
+I'm Laura, and I'm using Github for my research projects.
